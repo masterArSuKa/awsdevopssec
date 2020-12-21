@@ -12,4 +12,4 @@ phases:
       - echo "Entered post-build phase"
 artifacts:
   files:
-    - pom.xml
+    - src/main/webapp/index.jsp
