@@ -5,7 +5,7 @@ phases:
       - echo "Completed pre_build...."
   build:
     commands:
-      - echo "Starting build......"
+      - echo "Starting build......."
       - echo "Build complete !!"
   post_build:
     commands:
