@@ -12,4 +12,4 @@ phases:
       - echo "Entered post-build phase"
 artifacts:
   files:
-    - src/main/webapp/index.jsp
+    - awsdevopssec.jar
